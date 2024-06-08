@@ -16,7 +16,7 @@ Teleprompter App is a user-friendly application built using Tkinter. It allows u
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/teleprompter-app.git
+   git clone https://github.com/Courtney-Coetser/Teleprompter-app.git
    cd teleprompter-app
    ```
 
